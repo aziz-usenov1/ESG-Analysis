@@ -1,6 +1,21 @@
 # ESG-Analysis
 
+## Variables
+
+**DV 1: Environmental attitudes**
+- How worried are you about climate change? (1-5 scale, variable name: '**wrclmch**')
+- How much have you thought about climate change before today? (1-5 scale, variable name: '**clmthgt2**')
+- How good or bad do you think the impact of climate change will be on people across the world? Please choose a number from 0 to 10, where 0 is extremely bad and 10 is extremely good? (0-10 scale, reverse-coded by the authors to range from 0 (good) to 10 (bad), variable name: '**ccgdbd_reversed**')
+
+**DV 2: Environmental behaviours**
+- If you were to buy a large electrical appliance for your home, how likely is it that you would buy one of the most energy efficient ones? (0-10 scale, variable name: '**eneffap**')
+- There are some things that can be done to reduce energy use, such as switching off appliances that are not being used, walking for short journeys, or only using the heating or air conditioning when really needed. In your daily life, how often do you do things to reduce your energy use? (1-6 scale, variable name: '**rdcenr**')
+- To what extent do you feel a personal responsibility to try to reduce climate change? (0-10 scale, variable name: '**ccrdprs**')
+
+**World Bank Data about Educational Attainment**
+- Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)
 ## Hypotheses
+
 
 **Sub-question 1:** How do urban and rural residents differ in their pro-environmental attitudes?
 - H1.0: There is no difference in the environmental attitudes of urban and rural residents.
